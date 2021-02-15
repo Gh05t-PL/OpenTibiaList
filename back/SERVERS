@@ -1,0 +1,7870 @@
+[{
+  "_id": "a5087f9564573ad39e80d8602d29d508",
+  "name": "6 YEARS ONLINE",
+  "ip": "on.aurera-global.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1264,
+    "peak": 2994,
+    "max": 3000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.99",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2e1eb05a55e83dc28fd475478717f618",
+  "name": "RL 10 NEW QUIVERS",
+  "ip": "login.ezodus.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1173,
+    "peak": 2601,
+    "max": 2600
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "baab108e1d4f321ba59e2482529681b6",
+  "name": "Fast UP Global",
+  "ip": "demolidores.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 626,
+    "peak": 1890,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2bcf719c4a5730ea88cda50f2a0a0116",
+  "name": "RL 10 NEW QUIVERS",
+  "ip": "login.gunzodus.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 531,
+    "peak": 2047,
+    "max": 2500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "4fd1fd1030d239b5a78eb0b7d57f5c21",
+  "name": "Evo PVPE NEW",
+  "ip": "evolunia.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 570,
+    "peak": 975,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "599ead4fb3d8319487691f63d42a293d",
+  "name": "CHRISTMAS EVENTS",
+  "ip": "go.underwar.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 324,
+    "peak": 337,
+    "max": 3000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "4b476b81bd0f3ce7a9cfd2c033cc581e",
+  "name": "CUSTOM e EVENTOS FDS",
+  "ip": "pegasus.arinar-tibia.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "12.2",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7de2effa5b1d328080aac9c978ba3ae1",
+  "name": "The Best Global 8.60",
+  "ip": "sv.kaldrox.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2277,
+    "peak": 4256,
+    "max": 4256
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "032a113f847737918038100f61de6c2c",
+  "name": "Best Baiak 8.60",
+  "ip": "baiak-revolution.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 158,
+    "peak": 1431,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2757a016281133adbae81240bbc266e6",
+  "name": "RESETOU RECENTE",
+  "ip": "baiak-icewar.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 256,
+    "peak": 1200,
+    "max": 1350
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7e42e244a6443389b98e1924d83940ad",
+  "name": "RPG 4FUN longedition",
+  "ip": "vestia.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 476,
+    "peak": 966,
+    "max": 965
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e68e6f4119eb3f75aeb41a79b8f13724",
+  "name": "4FUN HIGH EXP EVO",
+  "ip": "rexia.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 251,
+    "peak": 1500,
+    "max": 1500
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "8.6",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "874f7da344cf3bee990d89fd75f01b31",
+  "name": "NOX RLMAP 8.6",
+  "ip": "noxiousot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 178,
+    "peak": 1038,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "3c1ea0b904503ed0889da548ea24a974",
+  "name": "FAST UP 10 MESES ON",
+  "ip": "on.globalzudo.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 159,
+    "peak": 309,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "705e7495a05031d581f11addd27f3904",
+  "name": "Collapser - CATCH UP",
+  "ip": "collapser.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 178,
+    "peak": 386,
+    "max": 850
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "44afb11b202c3aa5bf960e14edc23a2c",
+  "name": "Taleon NON PVP",
+  "ip": "sanpvp.taleon.online",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "12.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2ab11a7b5b0738e0bf992cf31466afd9",
+  "name": "Dura - Harder Tibia",
+  "ip": "go.dura-online.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 152,
+    "peak": 316,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "51ab4565ab0d3f4d90322599dcd6ce3a",
+  "name": "Realera ONLINE",
+  "ip": "login.realera.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 1,
+    "max": 3000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "aadc29d9f0ee3ea697b25637755628f8",
+  "name": "7VOCACOES MAPAUNICO",
+  "ip": "perseus.radbr.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 117,
+    "peak": 277,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6387732e4cbb32f987886835fb9239c9",
+  "name": "START 15 January",
+  "ip": "marlboro-war.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 122,
+    "peak": 223,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "cabfc3f30109355fa49d95228e6ff7e1",
+  "name": "5 ANOS ONLINE",
+  "ip": "sv.baiak-ilusion.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 104,
+    "peak": 1150,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ce2d4408e1103e598a53cae30b60c745",
+  "name": "5Y ON  - NEVER RESET",
+  "ip": "tibiacanob.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 151,
+    "peak": 216,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "286a119408ee396ab07d96d71cb81579",
+  "name": "EVO FULL CUSTOM",
+  "ip": "alastera.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 148,
+    "peak": 183,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "130d67de524b3968bbec6b8e7793fa5a",
+  "name": "The best custom 8.60",
+  "ip": "pbotwars.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 124,
+    "peak": 335,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5a65621a861b3919988b7db4f12b21fd",
+  "name": "GLOBAL RL - THE BEST",
+  "ip": "server.kivera-global.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 103,
+    "peak": 1304,
+    "max": 3500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "be68f24d0f073c1b8646a5d8046ad0dd",
+  "name": "Cyntara Highrate",
+  "ip": "cyntara.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 100,
+    "peak": 567,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "fbac19c54de1331e967b16bcc074ffc3",
+  "name": "MEGA UPDATE T2",
+  "ip": "join.emperaot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 95,
+    "peak": 381,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "57051b66aa793b5982d26f530055ebae",
+  "name": "TRIPLE EXP WEEKEND",
+  "ip": "cyleria.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 104,
+    "peak": 651,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c2738980ce5b391cb11b86b27e5aef57",
+  "name": "Fast Up Global 12e10",
+  "ip": "go.dolera-global.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 117,
+    "peak": 296,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "04ed45cb2dbf3eb1afcc5a7986186ef1",
+  "name": "OPTIONAL-PVP 3 YEAR",
+  "ip": "nopvp.magera-global.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "10.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "77480697bdbd35ca83e034d5f883c392",
+  "name": "EVO - Just Started",
+  "ip": "oxygenot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 44,
+    "peak": 62,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.6",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "331ea48946b334209c4a4575223049f8",
+  "name": "4 Anos Online",
+  "ip": "baiakziron.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 63,
+    "peak": 315,
+    "max": 400
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "cb71d60085c6373cb5d1c56c31d80a22",
+  "name": "Ascarus RESET DEC 4",
+  "ip": "ascar.us",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 77,
+    "peak": 738,
+    "max": 1500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "21d14af526003d1cadfc779490bb4f6c",
+  "name": "Unline World",
+  "ip": "go-unline.world",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 99,
+    "peak": 219,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.2",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "9f9aed3635e73a148c5d731422c8b3b4",
+  "name": "SpiderOT",
+  "ip": "spider-server.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 42,
+    "peak": 230,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "adaeec04594e3463a379d2a43fc31871",
+  "name": "RESET HOJE 18-12",
+  "ip": "heroserv.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 77,
+    "peak": 215,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "76a396f7fa173bdb906bad1a48373b0d",
+  "name": "Apo 7.6",
+  "ip": "armia.toproste.pl",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7dec51ca2b2e36b4abc48ed9875e749f",
+  "name": "WeAreDragons 8.0",
+  "ip": "s1.wearedragons.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 216,
+    "peak": 574,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1db6185aef253bdb9f5c3cb6f308e7f7",
+  "name": "CUSTOM 1500X NETUNIA",
+  "ip": "netunia.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 63,
+    "peak": 131,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d2056193cbb534d3ad3cc9b823e91128",
+  "name": "Globera OTS",
+  "ip": "globera.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 89,
+    "peak": 170,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.92",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "40121d0459d6355da23fd52aae4162b0",
+  "name": "Kovloria-OTS",
+  "ip": "game.kovloria.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 140,
+    "peak": 141,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "4a9a36f5d5703ad59d3ef154b2739199",
+  "name": "High ExP x99999999",
+  "ip": "prestige-imperia.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 81,
+    "peak": 131,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "3efe599029e9372d940642928d3133ab",
+  "name": "Nostalrius 7.4",
+  "ip": "play.nostalrius.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 891,
+    "peak": 1825,
+    "max": 3000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "786f70365afb33798c074a560ef9bf7c",
+  "name": "Necroxia",
+  "ip": "www.necroxia.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "9.8",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "46da79f550f0349ebe648f473891027d",
+  "name": "EXP BONUS 40x START",
+  "ip": "theheroesoftime.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 59,
+    "peak": 1292,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "da0e5292a45332ca82da0c963ed797fc",
+  "name": "WeAreTibia Global",
+  "ip": "s4.wearetibia.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 43,
+    "peak": 715,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b19463f7083d38ec9db8ff4d28a74e3c",
+  "name": "EXHIO - 23 Vocs",
+  "ip": "exhio.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 12,
+    "peak": 117,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "10.77",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "4ba5021c5f213d008faa0f7c3b42e124",
+  "name": "NtoHero Online",
+  "ip": "ntoon.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 42,
+    "peak": 223,
+    "max": 250
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "875efa48724735a7b9b3330588dbca13",
+  "name": "Global 999x FAST ATK",
+  "ip": "demolidores2.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 47,
+    "peak": 304,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8eb845160ab037c58aadfa8265acb97f",
+  "name": "LAUNCH V7 5FEB 19CET",
+  "ip": "animera.online",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "12954f9d0c033c64a3f856c4895e85aa",
+  "name": "LAUNCH V7 5FEB 19CET",
+  "ip": "animera.online",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "97ad20cdad183b82ace8dea3d1ae902c",
+  "name": "UmbrellaOT 99999",
+  "ip": "corporationot.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 34,
+    "peak": 136,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b69b90dceca3385dafa4bbbbb6b345ad",
+  "name": "HYBRID OT-RL AND EVO",
+  "ip": "rlevo.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 10,
+    "peak": 773,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "82267b66e8053d709060e1da446344f6",
+  "name": "Onix Server NonPvP",
+  "ip": "www.onixserver.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 36,
+    "peak": 182,
+    "max": 2100
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "11.9",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c4705d23dc5a35a397cf3c199f803d57",
+  "name": "GLOBAL FULL VER1251",
+  "ip": "on.brasilwar.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 121,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d977dbbc06cd3e559b80d27d64d4edae",
+  "name": "Summer Update v10-12",
+  "ip": "next-stage.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 40,
+    "peak": 133,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "fe46613a934734ea90579b103f680744",
+  "name": "dragon ball wodbo",
+  "ip": "server.sodb.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 53,
+    "peak": 98,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7e9b6db5221c3fba99368bca78d4c96a",
+  "name": "GLOBAL 999x Fast-Atk",
+  "ip": "global-facil.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 411,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.99",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1b630f4fcffb38e9b65b7056c9005a69",
+  "name": "Rookgaard - Fixera",
+  "ip": "rookgaard.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 17,
+    "peak": 57,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a00fcdc7b3143c74b0c578d3cdda6042",
+  "name": "RL MAP EVO",
+  "ip": "pandorum.eu",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 7,
+    "peak": 118,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8e8cb891034632d7aede5186ff2b4910",
+  "name": "Armada Azteca 2020",
+  "ip": "ot.armada-azteca.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 22,
+    "peak": 196,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "9.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "370f1896420f3713ae5ffc05402bb408",
+  "name": "Taleon Ares RetroPVP",
+  "ip": "arespvp.taleon.online",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "bf4a47229fb8349b9caa4433975f713c",
+  "name": "MorgarOT",
+  "ip": "morgarot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 10,
+    "peak": 60,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5e0318e170ac3afea94816cfcb3f6b21",
+  "name": "Goobers - J3 Gaming",
+  "ip": "goobers.no-ip.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 3,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d7c3d55339833aa08d6b61c18c4095b4",
+  "name": "Deathzot Era IV",
+  "ip": "deathzot.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 398,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "61b8f1cfcd2f39a8acb6191ecbe2475f",
+  "name": "LONG TERM OLD SCHOOL",
+  "ip": "play.adream.wtf",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 12,
+    "peak": 116,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "570b6c885ed635559d4030664d034c06",
+  "name": "ADULTS ONLY 8.6 EVO",
+  "ip": "exoria.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 182,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "433e489ee19439d7810c909e81b94d30",
+  "name": "ALTARON",
+  "ip": "91.185.186.103",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "307e402f01a53a879b9817d4b92ec61f",
+  "name": "RL MAP HIGH RATES",
+  "ip": "qualkierweaglobal.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 347,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "11.9",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "dbf43c0f8099309d8ef52864b96e7933",
+  "name": "BAIAK-PRO 20-01-2021",
+  "ip": "baiak-pro.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 48,
+    "peak": 236,
+    "max": 999
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6ed12ea550f730f8bddfdf496179416d",
+  "name": "Madnessalive OT",
+  "ip": "madnessalive.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 119,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.9",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "3953f15beb1838db94ae8756db419b3d",
+  "name": "UNDER MASSIVE UPDATE",
+  "ip": "highexp.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 300,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "159b34ba0d0b34968cc8fb3782153989",
+  "name": "We are BACK",
+  "ip": "ramonia.pl",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "387de7950edf3afb9bf1e0f77eaf7694",
+  "name": "RL - 2 years online",
+  "ip": "login.middlearth.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 189,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "11.00",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1377bbd65d4e33658c4670d407a91189",
+  "name": "7.4 START 29-10-2020",
+  "ip": "go.oldtibia.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 394,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "50f299eb6a54321f9cbe10b1f3fd96b3",
+  "name": "Karmia RPG 12-11",
+  "ip": "trapera.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 411,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "0a84fe870521381588f296238d8720ec",
+  "name": "Global - Imbuiments",
+  "ip": "newtibia.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 9,
+    "peak": 348,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "e517db4232dc3e31bf6994df329511f9",
+  "name": "99999x 5 VOCS NOVO",
+  "ip": "cronus.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 39,
+    "peak": 60,
+    "max": 219
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8ff4a38bd0533aa8be05389c3a546d3f",
+  "name": "Charms Bestiary full",
+  "ip": "game.platina-global.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1525075122b03353994c042872091870",
+  "name": "Global-Nutella",
+  "ip": "global-nutella.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 124,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "11.00",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "812bf5c2bf75330288db9f407653dace",
+  "name": "UnitedOTS 1.05 HIGH",
+  "ip": "unitedots.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 9,
+    "peak": 369,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "001d7f2af92a3d00860bb2b27bb37d9a",
+  "name": "War OTS 10-11 Client",
+  "ip": "war-ots.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 49,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "9228dfe3c6f33f6aa2bbade81919342c",
+  "name": "Classictibia 7.4",
+  "ip": "classictibia.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 10,
+    "peak": 11,
+    "max": 900
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "16136b9052de36b0919c99ec0b70d4a5",
+  "name": "7.4 RL START TODAY",
+  "ip": "go.tibia-old.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 424,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8756bbf844ce3460873d392b521ebe79",
+  "name": "Pure RPG",
+  "ip": "go.erpegia.net",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "11.9",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8068f5bdb7b0332b9c488bdd0eff290e",
+  "name": "Rozinx",
+  "ip": "rozinx.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 3,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b77ba11e67d2364bb0dec90345698140",
+  "name": "WIN 250 EURO",
+  "ip": "midhem.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 157,
+    "max": 800
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.0",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "ac0e699dcd03377381f1e83242b1c98b",
+  "name": "Ronots Venezia",
+  "ip": "ronots.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.7",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e7b50501d9473e76ac3930fba11f2d44",
+  "name": "RL OTS BEST",
+  "ip": "login.sabrehaven.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 24,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.92",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5ef17d89e02b3706b2428feb124a2cf9",
+  "name": "Hard RPG EPIC QUESTS",
+  "ip": "login.kiperlot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 18,
+    "peak": 30,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "cdfb96c4e0d73b109767158d7cf22ad4",
+  "name": "PxG Red",
+  "ip": "nova.necroxia.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8f1b95b9125c38329c891a402befc628",
+  "name": "Old-Ultra - Host BR",
+  "ip": "old-ultra.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 1,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "0fbdd4bdbba63db9836d83f46f223d66",
+  "name": "Draconic Ot",
+  "ip": "www.draconic-ot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 69,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d5c13a4e20fb383497f0e705bda3afe4",
+  "name": "Lowrate 7.4 RPG",
+  "ip": "play.tekania.online",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ec4b76e72b86313e93ca72afed04c557",
+  "name": "BAIAK  FAST-ATTACK",
+  "ip": "server.furiaot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 20,
+    "peak": 138,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6380daf8a96030f3baeee9c45e01046d",
+  "name": "Zeal Online RL 10.41",
+  "ip": "zealonline.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.41",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6fb33fe088103c9c9364e539ed59f101",
+  "name": "Welcome - Eagles OT",
+  "ip": "eagles-ot.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 28,
+    "max": 50
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a594c3b9d908344eae116882f2261af0",
+  "name": "KINGDOM AGE CUSTOM",
+  "ip": "kingdomageonline.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 64,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "10.99",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2011756cb14b3358830237fb5fa43b29",
+  "name": "Custom RPG",
+  "ip": "nutopiaot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 77,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ddab9949103233dab0cb5338cfdd5d71",
+  "name": "WeAreTibia NEXUS NEW",
+  "ip": "s1.wearetibia.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 600,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "804ae079be6e3808b82ff1281088923e",
+  "name": "Peora 7.4 RPG Custom",
+  "ip": "peora.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 8,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "96a17cd8254c3177a7bd76c7cd39159c",
+  "name": "REAL MAP 8.6 NEW",
+  "ip": "ethania.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 510,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6de744be9ac3387bb8c35a23d07d8e3d",
+  "name": "BAIAK VERSAO ALTA",
+  "ip": "megabaiak.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 10,
+    "peak": 71,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "651c6752119c36eab9e7f15438e3d8ce",
+  "name": "GLOBAL 8.6 IMBUEMENT",
+  "ip": "globalwar.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 84,
+    "peak": 145,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "0b8dc4cd82fb38e5a82efddeda391916",
+  "name": "Karmia with 8.6spell",
+  "ip": "vanillaots.eu",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 11,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "4af973a236693267a578e25aaaa25bc1",
+  "name": "Rookgaard - Xyla",
+  "ip": "rookgaard.pl",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "312acac91dbd3b4e81446d04758347b7",
+  "name": "HugeRookUpdate Dec13",
+  "ip": "nostalther.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 4,
+    "peak": 32,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ba9889523a5830fb8375ef7451767001",
+  "name": "1260RL SUPER UPDATE",
+  "ip": "seriousot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 20,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "76889dee273b305789b47e4e48767e91",
+  "name": "AUS-G UPDATE 31-07",
+  "ip": "aus-global.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 97,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "bee1bb558465318cb5d488f00231cc81",
+  "name": "RL - 1 year online",
+  "ip": "login.na2.middlearth.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 73,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "11.00",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "824376cc25b936a4aa9ccc8248dbba80",
+  "name": "VagosClub Anime 2021",
+  "ip": "www.vagosclub.cl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 12,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c34019eb0ed9341994129e0183af5790",
+  "name": "RANGERS ARCANI EU",
+  "ip": "s1.rangersarcani.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 9,
+    "peak": 146,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b7a937b428533b8788960274ebd48dee",
+  "name": "Novo dbo",
+  "ip": "twdt.quilante.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 29,
+    "peak": 42,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "293d1aa7b8063f40b5b87027f1b926c5",
+  "name": "Double Weekend x1",
+  "ip": "wenibia.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 122,
+    "peak": 150,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "aa49f83dd22e36919baffd3c54a57dc9",
+  "name": "Realots Legacy Beta",
+  "ip": "experimental.realots.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 17,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "7.7",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "59de3b2eff6134efb776ca53135b440f",
+  "name": "Frozen Hell",
+  "ip": "frozen-hell.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 16,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "97735e9e64103f5183032c26cb6c49be",
+  "name": "OSERA WORLD v4",
+  "ip": "login.oseraworld.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c8fe381efb8d3a8f9951fcf2e1279b72",
+  "name": "EVO 8.6 RPG FUN",
+  "ip": "otswar.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 4,
+    "peak": 6,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e28d04934bdf34f9bb2a40f942c8051c",
+  "name": "TibiaZin CUSTOM MAP",
+  "ip": "tibiazin.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 24,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "0b6dd035ea6138aebc07ed176d8d3348",
+  "name": "World Reborn Ot",
+  "ip": "worldrebornot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 13,
+    "peak": 17,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7c785657d79c33e5ab4a44aa6b432f2c",
+  "name": "PAdventures",
+  "ip": "game.padventures.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "303fb69b5d0a3dbf8f628590933a0826",
+  "name": "EVO 4FUN OLD OTS FA",
+  "ip": "sandots.eu",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 14,
+    "max": 600
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7a11a5a36b71352287300eff9034bb0d",
+  "name": "ExtremeOT Android",
+  "ip": "extremeot.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e58f6980b2843d579ac0c46b1ebc5e3d",
+  "name": "Best Real Server",
+  "ip": "game.jimba.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 42,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "112cd1c9633f3162a8ea333ab5096605",
+  "name": "4FUN CUSTOM",
+  "ip": "up.veteranosot.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 59,
+    "max": 80
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "aa766499589734ffb301540d657354e7",
+  "name": "CustomEVO WAR  8.6",
+  "ip": "war.exoria.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 100,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "3c66ae278c5c3a60935bf174e058a908",
+  "name": "Pandemia",
+  "ip": "pandemiaots.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 291,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e796c926d4693a01b088b4af6d0f3623",
+  "name": "Ascalon RPG TEST",
+  "ip": "ascalon-world.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ea2f7d7d4cbe32799fe9cf7ef4b65262",
+  "name": "Rookgaard Tales",
+  "ip": "rookgaardtales.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 9,
+    "peak": 12,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "9.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "dc83ad9966ba380d88413a2c92755f2b",
+  "name": "F-atk less cooldown",
+  "ip": "matera-global.ovh",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 21,
+    "peak": 59,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "082f3bab43963ef8bca703e2c2ac6e47",
+  "name": "GLOBAL",
+  "ip": "tibiaquest.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 4,
+    "peak": 17,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "58eb5edee63634feb7bbd391ae50302b",
+  "name": "Novidades",
+  "ip": "spartacusrpg.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 5,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.92",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d29dc84a61d5358e8af9cc85b6679012",
+  "name": "Karmia Start",
+  "ip": "adinots.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 43,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "33998a1fc7563564a25cffeef395e06b",
+  "name": "860 atu p 120 global",
+  "ip": "galaxyot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 38,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "231d29e60a103083808457f6455a5ed0",
+  "name": "Resist",
+  "ip": "resist.realesta74.net",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c8affadf524631fe8e1b3b062c2bbcdd",
+  "name": "BAIAKLAND 8.6",
+  "ip": "baiakland.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 38,
+    "max": 700
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7c164ec5234d3ae8b4ebd305ebc66536",
+  "name": "Baxpia",
+  "ip": "baxpia.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 56,
+    "peak": 170,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f1c502795ac13b5791cc3c3e7a430f06",
+  "name": "Tibia1",
+  "ip": "www.tibia1.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 8,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.1",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "6639eaa135ff3600a3be3e75c8fa2ac7",
+  "name": "Pokeregeneration",
+  "ip": "pokeregeneration.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 94,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "25237a1b4cd337029ad9ad3e64b2ebd9",
+  "name": "Global ANDROID 10 12",
+  "ip": "vikingwar.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 62,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "58647af58a913967aa592de260468aeb",
+  "name": "Full Global Updates",
+  "ip": "kelteraglobal.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 60,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "91f4084354d1302abb677d03342b5bcf",
+  "name": "Trashformers",
+  "ip": "trashformers.ddns.net",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ff6bc960e62e34b38d928e913ca859c6",
+  "name": "Ronots Novara",
+  "ip": "94.23.225.162",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.7",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f7c5148afdcd3d3398808511ae1a678b",
+  "name": "Odysseia-war",
+  "ip": "www.odysseia-war.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 13,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f02fc6d9d2ee39b5952167e280f4e526",
+  "name": "THE BEST GLOBAL 12",
+  "ip": "online.cco-global.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 35,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.3",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a556e2029b3737558a7f4a3438b3b77e",
+  "name": "Dawinbi Naruto",
+  "ip": "158.69.128.125",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 24,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e3d086f55ed03176b661ce24f63f58c9",
+  "name": "GLOBAL FULL SOUL WAR",
+  "ip": "join.mythera-global.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 40,
+    "peak": 318,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ad76cd682bc73dcd8bd2e28a4a720fef",
+  "name": "Casura Start 12-4",
+  "ip": "casura.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 800
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "389a35e823b03c79b46940bbc75431bf",
+  "name": "RESET 27 1 21",
+  "ip": "rooktales.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 257,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e36be8639cf9365182ddd9ecc6280a45",
+  "name": "LONEY CUSTOM MAP 8.6",
+  "ip": "www.loney-online.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 4,
+    "peak": 50,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "5ad6697db8a231ffa79a6d2cb8ed6ac0",
+  "name": "START 16-10-2020",
+  "ip": "memsoria.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 12,
+    "peak": 345,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "63eeac797b123a149d30e034f0a51f2e",
+  "name": "FairPlay Global",
+  "ip": "go.fairplay.tk",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 10,
+    "max": 6000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "533032138f2a31c4bcbb0a1e20462e4d",
+  "name": "GARNERA OT SERVER",
+  "ip": "garnera.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 33,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "08f2d491facb3a1692fe751155ed5812",
+  "name": "AIBIT - Tibia Global",
+  "ip": "35.198.61.127",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 11,
+    "peak": 21,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.7",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d282b8bc73c23c3fb70ec16b0c108ea8",
+  "name": "NEW USA RL MAP SERV",
+  "ip": "blazera.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 14,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "4942eb12f0503af98b8415b5cb2826a2",
+  "name": "BETA- WOLF VS DRAGON",
+  "ip": "tibiakings.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 35,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "11d7b06843dd3d8db279ddac383aa48e",
+  "name": "War",
+  "ip": "war.realesta74.net",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "39f6280dd30136e19f4533f806d58291",
+  "name": "Double Exp Loot",
+  "ip": "worldofvalars.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 95,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "48f567def1c03aac8872fb25e76c78c1",
+  "name": "RL MAP - ESTABLLE",
+  "ip": "deletera.cl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 107,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f85ad2a0ca193860aaa5400c3421ce10",
+  "name": "Odinia World",
+  "ip": "odinia.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 18,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.77",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "51d22716d7183044a4085f0f1b8dbcca",
+  "name": "Crazy 24h 999999x",
+  "ip": "crazyot24h.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 12,
+    "peak": 16,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "fa0adf51e22136aeb0a31cf1514357f6",
+  "name": "WARMIA 23 01",
+  "ip": "warmiaots.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 19,
+    "peak": 24,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "0198ec8af1803cfdbcb30da09d18ce90",
+  "name": "Demodras",
+  "ip": "opaitaon.demodras.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 4,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e3b52b6a6e8c3e1e85ef24dce4add89a",
+  "name": "Anarchy",
+  "ip": "anarchy.ddnsking.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 22,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "74bf2b84bdad392481e6c76b0f5fad04",
+  "name": "Chaos ",
+  "ip": "212.59.241.106",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 9,
+    "peak": 11,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "77ca56a6071439839d3ed7d46bc45001",
+  "name": "TibiaScape 7.4 RPG",
+  "ip": "play.tibiascape.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "11ee23e1de5036319681844c339e1653",
+  "name": "FREE TIBIA COINS",
+  "ip": "login.tibiana-global.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 51,
+    "peak": 73,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "6400ab8a06e230a38d6a3a4e96c9d4e1",
+  "name": "ALTERNATIVE RADBR",
+  "ip": "on.alternative-radbr.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 18,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5450eb94c1db310d9e38ca32ab5f7717",
+  "name": "Lare-war",
+  "ip": "online.larewar.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 5,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.3",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "cd8e3bd046d13ed2a98faac7cbb3a843",
+  "name": "TacoServer",
+  "ip": "taco.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 15,
+    "max": 30
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d9edeffa2cbc34ca80425eee87a7c1b3",
+  "name": "FoxWorld",
+  "ip": "foxworldserver.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 28,
+    "peak": 131,
+    "max": 250
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5f3778a723d33991aebe57bfddfe2b3e",
+  "name": "KMVB Illusion",
+  "ip": "kmvb-illusion.se",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 26,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b8e487ae1aa63183b207af71673c4397",
+  "name": "RetrOTs",
+  "ip": "retrots.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 35,
+    "peak": 54,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.7",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "63ef713601953ed5b1131b2150602cfd",
+  "name": "Doble XP Skill",
+  "ip": "xenthoru.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 35,
+    "peak": 84,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "51cf14916bea34c597a24f4ea11b63a6",
+  "name": "FAST XP GLOBAL BR",
+  "ip": "silvera.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 15,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ddcbb08c1ccd3c5aad3e77055d51a034",
+  "name": "Xablaw",
+  "ip": "www.xablaw.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 28,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "11.9",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "dc6f0f0d8a5333e3af1148ad85ad6899",
+  "name": "RANGERS ARCANI NA-BR",
+  "ip": "s2.rangersarcani.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 20,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ce3a8c3c21053412971f1717212d4bbb",
+  "name": "UnitedOTS FUN 30 10",
+  "ip": "unitedots.fun",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 130,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a664855b96033253aa1ba999f3aa07e2",
+  "name": "Pomorski Rumia",
+  "ip": "otsrumia.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 4,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1d15f24b3afa362380db857b0c7b4163",
+  "name": "ResetNOW 10 Dias VIP",
+  "ip": "geniumot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 15,
+    "peak": 206,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "4e3fe433de8a3cffa1cf2999384bd07d",
+  "name": "Baiakao do Ze",
+  "ip": "baiakaodoze.servegame.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "099e2d324e813989bb86bdb8bad3ed64",
+  "name": "Best Custom Evo 8.60",
+  "ip": "monseka.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 55,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ba45c1b5e93e356ca8ba9e81a4be01c1",
+  "name": "NEW UPDATE EVO MAP",
+  "ip": "vangloria.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 7,
+    "peak": 25,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "014022435e103360a4faeac002d77b7f",
+  "name": "Globaiak Open 11-12",
+  "ip": "ferobra.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 10,
+    "peak": 153,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8b7c31d1d94430b6beeb60f8d2839327",
+  "name": "FRESH START 12-12",
+  "ip": "evobest.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "abdb23e834c93bbca679ec71510a9a26",
+  "name": "START 12-12 JOIN NOW",
+  "ip": "hexapa.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a8891917294931d295d7d30f2507cf49",
+  "name": "4Fun HighExp Evo",
+  "ip": "sehura.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f1d3c97242d531a896659e06ae96f7cc",
+  "name": "HIGH EXP 4FUN EVO",
+  "ip": "ezera.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 26,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1facee9eb5003ca98c48031f647c6e80",
+  "name": "Exp X999999",
+  "ip": "maxera.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 26,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a21f2b31e75b3760adbeb17e7cff97ee",
+  "name": "Evo Bosses Events",
+  "ip": "mexia.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 13,
+    "max": 1200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "805dc329848d3b8b9a234d528084d03c",
+  "name": "GLOBAL",
+  "ip": "on.razgard.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 26,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5e831bd5679a3a9b8268924d62f0e1fc",
+  "name": "Bronson Server",
+  "ip": "bronsonserver.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 14,
+    "peak": 251,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2a7260354ed53be5b726df288f5bde38",
+  "name": "Old-War 7.4 WAR",
+  "ip": "old-war.hopto.org",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f3dca11f5e173ab7ae96fd1caba808ee",
+  "name": "ZYDENT - PRIVATE",
+  "ip": "burraserver.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 10,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "74c4da989b273717ac8e57cd0364be95",
+  "name": "Osera S2 RPG Edition",
+  "ip": "login.oseraworld.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5ee6c4e1a2f53440b63bdd316563844e",
+  "name": "Memoria Rl MAP 7.4",
+  "ip": "memoriaots.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 19,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "bce90a1747b63cee99800efd943de403",
+  "name": "7.1 FIRST REAL COPY",
+  "ip": "classicot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 15,
+    "peak": 16,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6d5d4243f700354284402f1dd8c56554",
+  "name": "GLOBAL FULL VER1251",
+  "ip": "on.yourotsglobal.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 9,
+    "peak": 250,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "4aa64673dd483ce8a430b774ba80f791",
+  "name": "New Soul Items",
+  "ip": "game.thornia-world.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "36ae00d2672b3d2bb379c70b725b6849",
+  "name": "START 4-02-21 18-00",
+  "ip": "tibiaonline.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 100,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "26a09bb99a6d373ea7286a769d21e8c2",
+  "name": "GLOBAL FULL PING BR",
+  "ip": "login.maserots.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 21,
+    "peak": 76,
+    "max": 750
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "24ed1e01db6333eb80008978dd77c8d7",
+  "name": "START 16 10",
+  "ip": "earth-dbworld.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 4,
+    "peak": 7,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.92",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b72bd0bfa28a3d2c911e4ed4f5ee77bf",
+  "name": "X99999999 Com Resets",
+  "ip": "sv.dominushonor.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 8,
+    "peak": 43,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "552788eb261a35f5b8b0aba809506daf",
+  "name": "DOUBLE EXP SKILLS",
+  "ip": "yurots-online.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c4d8c570bc0f330e8d1e2cf580cd6c42",
+  "name": "GiveriaOT Custom EVO",
+  "ip": "giveria.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "11.8",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1b89b7db241a3500b1cbfcee165b6849",
+  "name": "Oujda Ot-Baiak 12-60",
+  "ip": "oujdaa.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 11,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "47322b5b3d993df5be69810a8b448d00",
+  "name": "Cliente PC y Android",
+  "ip": "yogalox.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 47,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "10bb5861155f3572af0396062e70cd0e",
+  "name": "mandrake-global",
+  "ip": "plus.mandrake-global.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 6,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "4b615ffba8443110986a8edb336d07e0",
+  "name": "Valoria STARTED",
+  "ip": "s1.valoria.ovh",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d0157cdbfd67368bb54ab27b1ac13184",
+  "name": "TIMERA FREE TC",
+  "ip": "timera.ots.me",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 13,
+    "peak": 44,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f9ebc7bd0e753a3a8b2c2f760a73aecb",
+  "name": "Baiakao do Agiu",
+  "ip": "baiakao.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 14,
+    "max": 999
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "25ab2ac025bd33ba8db7f30ef3ac0954",
+  "name": "x9999 Evo OTS",
+  "ip": "oceania.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "0ff9b2164e453e9caca26bee9a6ce029",
+  "name": "HighExp 4Fun",
+  "ip": "spaseka.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ab1365eb50f430c882b0756ee027aa54",
+  "name": "Start Best EvoOT",
+  "ip": "shivera.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "dfc584e906de32288ce2f21dbcf9750d",
+  "name": "Custom Evolution",
+  "ip": "highevo.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "36f2905b57bb3dc3b55629452a279e5b",
+  "name": "Evo 8.60 Start",
+  "ip": "darkena.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "14192776b08038b78fb0234e13689ad5",
+  "name": "Best Tibia EvoOTS",
+  "ip": "fixena.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6db5af5638bd3181818f6c7c7cae44e1",
+  "name": "Best RL Edit PVP-RPG",
+  "ip": "go.feelthepower.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 76,
+    "max": 900
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8aa75aa1a6a73293802bf3d6d2e06c26",
+  "name": "WykopOts Custom RPG",
+  "ip": "wykopots.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 20,
+    "peak": 74,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "985cc02b23893c7aa51403299abd4e7f",
+  "name": "Join Now and Play",
+  "ip": "mesonia.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1a98579b5b4b31bab2196af923cbb63b",
+  "name": "My pbOT - Aberto NOW",
+  "ip": "mypbot.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 18,
+    "peak": 58,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e360067a395334a6b26e29fc1dbeffa2",
+  "name": "Newera real map 8.0",
+  "ip": "newera.hopto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 6,
+    "max": 700
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8f9e793f9a35309fa8b5113c01d51177",
+  "name": "JOIN NOW VIXERA",
+  "ip": "vixera.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 13,
+    "max": 1200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c655ec9829b33edcbdcf711a00ba5c3b",
+  "name": "Custom Evolution OTS",
+  "ip": "tekaria.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 13,
+    "max": 1200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "97e2660500a23d00bac08b1dbb98daa8",
+  "name": "GOSHNARS FULL",
+  "ip": "play.pandemicglobal.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 31,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a4d657bbb69f3b8fba5993f106f21c8d",
+  "name": "High Exp Evo x999",
+  "ip": "mehia.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 13,
+    "max": 1200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "77d62b6ed99d303baf363fb432378268",
+  "name": "SHIXA HIGH EXP EVO",
+  "ip": "shixa.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 13,
+    "max": 1200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "93c5c6d5c5f43ae283bc7babc56f25cf",
+  "name": "BOSSES HIGH EXP FUN",
+  "ip": "mokseka.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 26,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "96c18bc5bc7e3bce9195361c5578d5b1",
+  "name": "FUN EVO OTS JOIN",
+  "ip": "zivera.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 26,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "247e99e63b033c0094f01eb54c90bd14",
+  "name": "SUPER EVO OT",
+  "ip": "behola.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 26,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "648733d38ace3ca685a2abf5f274f764",
+  "name": "JOIN NOW TEHANIA",
+  "ip": "tehania.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 26,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "49006e50ed3d33b4b1e3f06120f93a11",
+  "name": "BOSSES EVENTS FUN",
+  "ip": "ashena.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1eecff7598aa34cbae3b8fbcb6cee2cb",
+  "name": "NEW UPDATES HIGH EXP",
+  "ip": "herbal.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6082162362a030ab9b8086318eafb21b",
+  "name": "FOREVER EVO OTS",
+  "ip": "jukena.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6739825cdf66352eae7c4b642cc4096b",
+  "name": "8.60 CUSTOM EVO",
+  "ip": "lovera.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 25,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "0c783d34b02032b5b502772350ce1dab",
+  "name": "Mysticnation",
+  "ip": "mysticnation.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 5,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "4a9561f4ad8b3bd986b279eabca5a102",
+  "name": "Custom MAP and Game",
+  "ip": "swordart.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 7,
+    "peak": 67,
+    "max": 900
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2d210951742038429000638b8fa0eb82",
+  "name": "Xvicio Client",
+  "ip": "xvicio.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 9,
+    "peak": 13,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "8.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "95919d7465183602b1fbfa1d2bbef97b",
+  "name": "Anvard War",
+  "ip": "anvard.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 76,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e0882c1ca61c36a797caa8805ea7d4bc",
+  "name": "Atualize o Cliente",
+  "ip": "fenixrpg.sytes.net",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.92",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "00c59341e47939ada119b281ee725c77",
+  "name": "FIRST SEASON NEW",
+  "ip": "gamefate.eu",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 6,
+    "peak": 100,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "bedae84ef1a3310dad6930574a972b10",
+  "name": "RESETADO - HOST BR",
+  "ip": "legendaryot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 59,
+    "peak": 88,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "564fd12080dc3c02bf3370b880c91474",
+  "name": "Elythia",
+  "ip": "elythia.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 20,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "796682e621f2362d85ab515c272fbe05",
+  "name": "OSERA ISLAND",
+  "ip": "login.oseraworld.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "4828b1fd8ca0351daf089bdbca15ebe9",
+  "name": "Fast Attack-Evo999",
+  "ip": "shadow-war.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 25,
+    "peak": 35,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "374dba89e6ee3d158464caf0f97d2659",
+  "name": "Osera World BOT EDIT",
+  "ip": "login.oseraworld.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c714cd67b3ea31f7a3208254c5033330",
+  "name": "VisionOT",
+  "ip": "visionot.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 104,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2fba8d37c8f73c20b2adbe1a08ea23e5",
+  "name": "Free Coins v12 6",
+  "ip": "olympus-global.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 7,
+    "peak": 41,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "243b0fd099ba3677aeba47091382f58c",
+  "name": "GLOBAL N BOT N RESET",
+  "ip": "on.olyrionglobal.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 4,
+    "peak": 27,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "cb807da3b5fa384492d90bdbc282395d",
+  "name": "Abriu dia 31-01",
+  "ip": "king-baiak.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 195,
+    "peak": 308,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5e83438b7493326890eb1150744eb16d",
+  "name": "Climatic RPG",
+  "ip": "slavic-world.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 18,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5cb7d35913c033fdad6cd947c0ee71af",
+  "name": "Zenonia-Global",
+  "ip": "209.126.8.8",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 102,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1e23f52e7ad33407b87d642285258dd7",
+  "name": "Custom TPS PVPE 100x",
+  "ip": "grasshopper-ot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 8,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "65b54c073f3635619468ab28b2e7627f",
+  "name": "Krolork HostBR",
+  "ip": "go.krolork-global.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 22,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ac7d9d65f597333882220e895f5c8c42",
+  "name": "Tibiera 7.4 real map",
+  "ip": "146.59.225.220",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 39,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1d2b467352bf388c85e26138b3f528af",
+  "name": "RESETADO",
+  "ip": "oldtimes.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 10,
+    "max": 150
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.92",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "030a723ede77342a92fa97c910f5faa2",
+  "name": "Evo OT 8.6 RPG WAR",
+  "ip": "budexot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 88,
+    "peak": 93,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "3b3a4616089c3f86a0b3b4d3abc9cfe5",
+  "name": "Map - Pazzur Online",
+  "ip": "sv.almera.tk",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a9a7a40e846635ecb917eecebfa7e591",
+  "name": "Br Ot Server",
+  "ip": "www.brotserver.site",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 19,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "9f186ed79ccf37fa8955a912f2b53c29",
+  "name": "Vexa start piatek19",
+  "ip": "vexaots.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 14,
+    "peak": 19,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "302c2af6fce73fd2a468b5048ef9a0ac",
+  "name": "Azgard Online",
+  "ip": "azgard.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 7,
+    "peak": 7,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b0cc2f230d593f52a061b98c2db187a1",
+  "name": "Alkurius OT 8.6 Plus",
+  "ip": "alkuriusot.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 5,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "b2e0d7fce7983129bb735e75db9e14d6",
+  "name": "Draferia",
+  "ip": "draferia.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 7,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "11.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "022cf71da75b38f690aa452e063e4b76",
+  "name": "Realm of Muu",
+  "ip": "muu.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 12,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "9.8",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "668fe7f88c533fa2b55a0c5df2fe2763",
+  "name": "PsiampsiuOT",
+  "ip": "psiampsiu.xyz",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 4,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c45afdb382c33dad82bedeb683dc309c",
+  "name": "GLOBAL FULL v1261",
+  "ip": "chinelo.servegame.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ffe9ccbf2d5a3b3195366c367e2c4e72",
+  "name": "MEGA WAR",
+  "ip": "havoconline.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 56,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8e92869bce21318da81d5eef704d0529",
+  "name": "START 31 12",
+  "ip": "valantia.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 2,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f3c7a7b936bd3599ad5af82580fded8f",
+  "name": "Raknia RLMap Pokemon",
+  "ip": "raknia.sytes.net",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a15555734b8e3b5d8abdc27fcce5218d",
+  "name": "Ultra-War BR",
+  "ip": "sv2.ultra-war.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 17,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "27d43adaaabd386095444186a2e95cbb",
+  "name": "PbotOLD",
+  "ip": "pbotold.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 11,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f103107a356d32368d2dda90afa17afc",
+  "name": "Call of Darkness RPG",
+  "ip": "callofdarkness.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 8,
+    "peak": 40,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.77",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "22fb053caa81342bbf85b9ab85dc9f0b",
+  "name": "12-01-2021 as 19hrs",
+  "ip": "old-server.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 87,
+    "max": 999
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "65b723520ce53b4db0d2d74640f978ba",
+  "name": "Pokemon Real",
+  "ip": "jogar.pokemonreal.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 13,
+    "peak": 161,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.54",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "4f6e3ff5a2b43796b7e16e1895da73e8",
+  "name": "Long Term Global OT",
+  "ip": "tibia-global.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 6,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7f5efd5b6fde36d2afabaac04995ec55",
+  "name": "Nowy start Evo",
+  "ip": "tibia3d.hopto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 26,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "498a76ae0ff234409067cf5aee6c0b08",
+  "name": "24-7 WAR 1-1 LOGIN",
+  "ip": "empira.io",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 7,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "139ac619f2df3965b29b8c68f2c6b604",
+  "name": "Open Server",
+  "ip": "psychotick.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 6,
+    "peak": 7,
+    "max": 150
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.92",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b61ba3f412833ab2994236c777d77f0d",
+  "name": "World RL 10-12",
+  "ip": "world-global.zapto.org",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.0",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2247f969f0763f6fb98a9759b805a786",
+  "name": "FREEDNT HOST BR",
+  "ip": "baiak-hype.ml",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "ed39b1aa47df305685470efcc0180224",
+  "name": "OLD EVOLERA",
+  "ip": "evolera.es",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 13,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "3b2ec399c0cf319c9240c17aa4deae78",
+  "name": "Inauguracao dia 11",
+  "ip": "fenix-baiak.tk",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 21,
+    "max": 800
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "9f96b0dc1b783feeb0e0ef849be84926",
+  "name": "KARMIA New player30P",
+  "ip": "walhallaots.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 19,
+    "max": 250
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "851d068769823350ad5d0311e6721877",
+  "name": "Oldera Global 8.6",
+  "ip": "olderaglobal.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 37,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2e367ebb6c263c318641875a530a8a16",
+  "name": "FoxWorld - OldWorld",
+  "ip": "oldworld.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 13,
+    "peak": 37,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8b474d3dc68e3087a261e69a2f9c14a2",
+  "name": "Daritica",
+  "ip": "daritica.myftp.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 13,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "020be1abf8a53b07ba4f212107bd932b",
+  "name": "EXP Alta-VIP GRATIS",
+  "ip": "otdereset.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 41,
+    "peak": 168,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b9874b4d71fe3948927f76bce3c1a168",
+  "name": "Beta Live 13-01-21",
+  "ip": "secura.isaria.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 64,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2936d6d4949e39c8922ac8369ca43426",
+  "name": "BAIAK FREE TO PLAY",
+  "ip": "necroverse.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 13,
+    "max": 175
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6e0590f7c33d39a8b99d748b86b9488d",
+  "name": "The Best Global 8.60",
+  "ip": "unlimitedot.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 20,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "185c7def1e55397db7b32835f6550603",
+  "name": "Otclient And Android",
+  "ip": "xandoria.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 48,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c2e5c3313299312585bcfd98273f0cd4",
+  "name": "Elthia Started 22-1",
+  "ip": "server.elthia.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 4,
+    "peak": 59,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "90cccc0114e7354f9d14d94e4c89a6d6",
+  "name": "Tibia Soft Cores",
+  "ip": "tibiasoftcores.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 6,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7b1d899ffed437269c858e59712a572a",
+  "name": "BRANDNEW OlympiaOT",
+  "ip": "olympiaot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 25,
+    "peak": 42,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e295273b82ff3cfa85e6ada4c5eba529",
+  "name": "Highexp Reset System",
+  "ip": "repperot.hopto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 13,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c1c8e597b3353b809cab2b441b1dd65b",
+  "name": "Evo PVPE New",
+  "ip": "shylveria.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 8,
+    "peak": 100,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f66c5405b8f83814a196a544f8d4e992",
+  "name": "BaiakGaming Abriu HJ",
+  "ip": "baiak2.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 27,
+    "peak": 146,
+    "max": 999
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "0c02daf920c539cf896c912097e0ed05",
+  "name": "ALHION START SERVER",
+  "ip": "status.argon-online.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 2,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "790210f9a3de3d1bb189321c2fd8935f",
+  "name": "Pachiturris",
+  "ip": "pachiturris.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 8,
+    "peak": 35,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "0e77c6ab11783394b686938acd7609d9",
+  "name": "OT DEDICADO 24HR",
+  "ip": "baiakpvp.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 2,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "8ba04c84af8b3548ba34e645d1b6510b",
+  "name": "rl Map high-exp",
+  "ip": "worldoftibia.ml",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 7,
+    "peak": 19,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2ee91a4dfbd03b739a62c7f32e8fd993",
+  "name": "Global Real Test 126",
+  "ip": "ot.arsiuta.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 3,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "9908ffad2660340b8c1c05992747c720",
+  "name": "YourOTS",
+  "ip": "yourots.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 6,
+    "peak": 7,
+    "max": 250
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6bd2395594573a62bdc32b5478849763",
+  "name": "ABRIU AGR 999X",
+  "ip": "exoriserv.tk",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 15,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b620e497a039339f94134a096fa07f5e",
+  "name": "LOW RATES HOST BR",
+  "ip": "on.tibiahard.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 6,
+    "peak": 69,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f468c0caf6663071a5e067ac1416a3c2",
+  "name": "Double EXP WEEK",
+  "ip": "193.178.43.183",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 3,
+    "max": 30
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "75a1280d0e3532bf8a86c571610db27c",
+  "name": "Macospland",
+  "ip": "macosp.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 6,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e15ced30dd42348aa462d0a76543dc9b",
+  "name": "RadBR - Skill Free ",
+  "ip": "empirebr.site",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 7,
+    "peak": 79,
+    "max": 400
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "30ba887ee6023392a4231aa70d56e469",
+  "name": "ALL BOSSES 1260 20ms",
+  "ip": "nemesis-global.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 16,
+    "peak": 33,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "337342e44f083edca3023ab9d8ee723e",
+  "name": "Gumis Real",
+  "ip": "gumis-real.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.9",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8247020078913cd5939b8392cd3dfec3",
+  "name": "Silverthorne RPG 1.2",
+  "ip": "silverthorne.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 6,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "66999943aade363e8f2cd80588b3e9a4",
+  "name": "TibiaTitania 8.6",
+  "ip": "tibiatitania.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 3,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d99f86fa41d432569596fd82c92c3340",
+  "name": "START 23 JANUARY",
+  "ip": "belvedera74.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 31,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "cbe9800da6b8348aa8459d8ce8e48439",
+  "name": "LOW PING 24-7 GO. ",
+  "ip": "baiak-word.sytes.net",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "efe2e5616d8237d888a17f2812fad7ff",
+  "name": "ViveraOT",
+  "ip": "viveraot.tk",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 8,
+    "peak": 26,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "3397e16486773ad384b300e3ac4f128e",
+  "name": "O melhor Baiak 8.6",
+  "ip": "kzirot.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 10,
+    "max": 300
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "941325d6220d3bf1ad8ab0de948b5557",
+  "name": "Conkertserver",
+  "ip": "conkert.hopto.org",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "586d7bc87fd23f30902613fdee9bc7eb",
+  "name": "Myths Of War",
+  "ip": "myth-war.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 10,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.4",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "026e0317f766300c8b54e25498581342",
+  "name": "ABRIU HJ PING BR ",
+  "ip": "baiakunder.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 59,
+    "peak": 98,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a977b502e23e39399363eb43d42527c3",
+  "name": "OPENS ON 19 JANUARY",
+  "ip": "suddenbaiak.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 17,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6da41202055c3f7fae4e60e80574610b",
+  "name": "OlimpoBR 24-01",
+  "ip": "olimpobr-tibia.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 12,
+    "peak": 19,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.0",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "6290c2fbe69f36338fa42aa910f04434",
+  "name": "HORUS FAST XP GLOBAL",
+  "ip": "join.horusot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 18,
+    "peak": 97,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "55bbdd7de1f13c9db9483ab4a154c787",
+  "name": "O Melhor Baiak 8.60",
+  "ip": "hailtibia.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "939974487b3233c0b23669b6793904d9",
+  "name": "1260 REAL MAP",
+  "ip": "bestserverglobal.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 8,
+    "peak": 29,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "3eb76ee7d45d3455b2b652b7d52725c8",
+  "name": "NTO PRO",
+  "ip": "ntopro.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 31,
+    "peak": 58,
+    "max": 650
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "16f8a948b5a034ec9b30fdc9675f8bce",
+  "name": "Pelego",
+  "ip": "www.pelego.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 4,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ac2e1c40a32d37aa8a03d2bb5e3633dc",
+  "name": "DOUBLE XP ATE Lv400",
+  "ip": "dboheavy.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 85,
+    "peak": 172,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "43171203d2cf36a69cba5095212caaad",
+  "name": "Client APK e Proprio",
+  "ip": "baiaktop.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 3,
+    "max": 800
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.9",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "51bed45b2da53b74b5b69fb26cc70a9e",
+  "name": "Mirage-Ots",
+  "ip": "mirage-ots.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 5,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "dcf47b651dc737d28153c2bf5af238b8",
+  "name": "FREEDNT BAIAK TOP",
+  "ip": "originsv.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 1186,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "002063da891e3748bfe5f9533ddc51f7",
+  "name": "Abriu agora",
+  "ip": "revolutions.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 4,
+    "peak": 9,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1510cf29475a322495ff30fa73152b3e",
+  "name": "Starlix Baiak Voltoo",
+  "ip": "starlix-baiak.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 26,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7bc7d464f6ad38a5a8ebbcf6ddca108e",
+  "name": "RL- Free Tibia Coins",
+  "ip": "aurora-global.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 31,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "f666678ab205335facbe7081f1c1fce3",
+  "name": "GLOBAL RETRO",
+  "ip": "elfwar.com.br",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 10,
+    "peak": 15,
+    "max": 700
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "942d0c75c3cb3327b2329c89791848af",
+  "name": "Candyots.pl",
+  "ip": "candyots.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 28,
+    "peak": 85,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "0118225c3e3c38dfaaaa3e540ee0e539",
+  "name": "Gamera",
+  "ip": "gameraot.ga",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 7,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "59925b76190032f89288a3a1c863d987",
+  "name": "Gordin Ot",
+  "ip": "gordinot.servegame.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7e7b7ec9e40333a7ac1023b08f3ecadc",
+  "name": "Join now 24-7",
+  "ip": "wiki-ot.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 9,
+    "peak": 21,
+    "max": 150
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "adea425cf5c93abfa69a46d4c1d9804c",
+  "name": "Fusion BAIAK",
+  "ip": "fusion-virus.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 16,
+    "peak": 26,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5ff1158bdecf34c2b641ff90f334c327",
+  "name": "Global 8.60 New",
+  "ip": "maxreal.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 3,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "584ca87fc5d738acb4470df3cf0e2d13",
+  "name": "Real 8.60 New Start",
+  "ip": "ethura.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 5,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "77e49ef18cb53109823557392ba237f1",
+  "name": "Real 7.60 New Start",
+  "ip": "hexa.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 4,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a0f799ddd44e372a8709c1d525ce431a",
+  "name": "Best Real New Start",
+  "ip": "teba.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 4,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "488309e12bf13f8795d36317b5bed767",
+  "name": "Join Now to Mexa",
+  "ip": "mexa.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 4,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "a1cbdd7dc5223df18c41193ca58d4638",
+  "name": "Join Now to Mastera",
+  "ip": "mastera.zapto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 3,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "aa86b14171fb3f75b3c4b84cb52cb1f8",
+  "name": "StyllerBaiakHOSTBR",
+  "ip": "www.classicyurots.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 28,
+    "peak": 74,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1d1b90424893315e9e601ca3a8635a16",
+  "name": "OPEN NOW JOIN",
+  "ip": "kalimawar.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 10,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "77ecaf0654ca3dde9d8b228707fd6963",
+  "name": "Real Server Vanoria",
+  "ip": "vanoria.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 15,
+    "peak": 138,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d2af802a825131c1b950748fff9dd567",
+  "name": "START 5 February",
+  "ip": "valtoria.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 48,
+    "peak": 53,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "95f83aef08b43baca5ba5e5a194501de",
+  "name": "Tibia Latinos",
+  "ip": "tibialatinos.servegame.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c9f39b2cbace3cebaae6ebddb18fdd32",
+  "name": "ABRIU HOJE - BAIAK",
+  "ip": "fusion.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 55,
+    "peak": 76,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c99c751df3473f4e9805f91b8b4d89e6",
+  "name": "War 99999999999",
+  "ip": "baiakhino-high.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 32,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "9cab2fcb18833d9c8bef0b34e3d69342",
+  "name": "Full custom",
+  "ip": "exkordium.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 14,
+    "peak": 22,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "5a505e9c728739aeb71e1ee235d0976e",
+  "name": "FULL UPDATE E MOUNT",
+  "ip": "lunar-global.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 33,
+    "peak": 94,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "590417e91a0c34388c5437ef1976ea45",
+  "name": "Comaland RL",
+  "ip": "comaland.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 6,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ae4feb83d3c33015a5f501daef3c0a9b",
+  "name": "VIP ZONES FREE 24h",
+  "ip": "baiakciteron.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 4,
+    "peak": 27,
+    "max": 250
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "eb94b9bf52b03798a6e7c0dc0788ecbe",
+  "name": "BaiakMegaRox24HORAS",
+  "ip": "baiakmegarox2021.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 11,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "84b4df689d563e1aa607c91f12e83bf9",
+  "name": "Evolera Full WAREXP",
+  "ip": "evolera.nu",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 14,
+    "max": 700
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "1eceea293a2f3a0fb5cc45f687de00a5",
+  "name": "NATALA IS HFRE",
+  "ip": "natala-vapus.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 35,
+    "peak": 37,
+    "max": 350
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ff3a9a1ccf7236268b7e3b97fd73b963",
+  "name": "START IN 12-02-21",
+  "ip": "realmap.grimera.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 9,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.7",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "dacc004caaf4360889b539d455f59a07",
+  "name": "Angel World Global",
+  "ip": "www.angelworld.ga",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 12,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "34ce08e1aa31322b8d19cac089c59ba5",
+  "name": "NaughtyOTS REAL",
+  "ip": "78.105.146.120",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 32,
+    "peak": 34,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 0,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "480f58013fe33def8f1aa83f85aef7b9",
+  "name": "24-7DoubleExpWeek",
+  "ip": "176.122.227.6",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 14,
+    "peak": 14,
+    "max": 150
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "92787130938a329684f02dca12bd2302",
+  "name": "START IN 12-02-21",
+  "ip": "globalfull.grimera.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 1,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "cbcceabcfb6d3d84afeae23d7092cb19",
+  "name": "pundarOTn custom",
+  "ip": "pundarotn.eu",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 10,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "10.98",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "52883545551f32d8ab70dde8090b5685",
+  "name": "TIBIA GLOBAL",
+  "ip": "tibiaglobal.cl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 6,
+    "peak": 26,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "9ea47cfc14f43247b6921512e1078d90",
+  "name": "MAPA PROPRIO",
+  "ip": "spaceot.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 25,
+    "peak": 29,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "87eddf7ad2b53d82a1604cb0901952e1",
+  "name": "HOST BR ABRE SABADO",
+  "ip": "divine-global.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 7,
+    "peak": 18,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a09f9d56d1883fd6a75b89caeb9b184a",
+  "name": "UPDATE 2021",
+  "ip": "asgardserv.duckdns.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 3,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e94e2060b46f340387a2248c189714ff",
+  "name": "Fox Enforced",
+  "ip": "foxworldguerra.ddns.net",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "ce0c2d2a86133e8a884b11a17af007ba",
+  "name": "PING BR - FREE SET",
+  "ip": "www.baiak-ice.ml",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 10,
+    "peak": 63,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "8e9e6330151d3a22be2d917c52f02c12",
+  "name": "FAST UP LEVEL",
+  "ip": "go.julera-global.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 7,
+    "peak": 17,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "834b3054ab923e708b9b03792884d4b5",
+  "name": "DarkOT Evolution",
+  "ip": "dark-ots.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 5,
+    "peak": 12,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.1",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "b9dae413271131ee9d16617191f285ff",
+  "name": "Restart Account",
+  "ip": "new-style.hopto.org",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 14,
+    "max": 200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.1",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "06eb9a64273e3641a5b1166f898117cf",
+  "name": "Testing serwer",
+  "ip": "95.217.157.120",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 4,
+    "max": 150
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "d03daf5f22773ab8b07649e769d2aa3e",
+  "name": "RESETED  EventDouble",
+  "ip": "lostsouls.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 6,
+    "peak": 9,
+    "max": 150
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "7.92",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "c9f14a3841bd3527a44a740b5efd6159",
+  "name": "Custom RealMap 8.60",
+  "ip": "vetrana.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 3,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "2b768f6045c238219d17b3abdcd6c6a2",
+  "name": "Baiak Yurots OPVP",
+  "ip": "ashonraspvp.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 7,
+    "peak": 12,
+    "max": 400
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "3c24be0550c83165a817f3e4bc0df2f7",
+  "name": "Vargally Ot BETA 01",
+  "ip": "vargallyot.servegame.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "554ee4813b8f3f5e9692783250a89f59",
+  "name": "Abre 07 02",
+  "ip": "baiakpesadao.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 1,
+    "max": 1200
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "owner": {
+    "$ref": "User",
+    "$id": "8f8de9874e5439c1a0114a353aa7c7f6"
+  },
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null
+},{
+  "_id": "5f6bc3e1ca2330dab3778e51ea8e0aea",
+  "name": "CalopServer",
+  "ip": "calopserver.tk",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 11,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "010e48c0d04a3a529b203e82e02e00fa",
+  "name": "Galaxia OTS24",
+  "ip": "centoria.pl",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 11,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.54",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "874583ba82bf3e5492601d408df0ebb6",
+  "name": "SekurwaOT",
+  "ip": "sekurwaot.servegame.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 2,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "556dfa2d80193254898ef19779e0aa3c",
+  "name": "chimeraglobal",
+  "ip": "chimera-global.ddns.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 8,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "a81a6e978e553f9d8c5d2729cf772e0b",
+  "name": "START 6-02-2021",
+  "ip": "go.retro-oldera.com",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 17,
+    "peak": 29,
+    "max": 2000
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.4",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "9b631846524b3db08456cb4f9dea15e4",
+  "name": "Reborn Open 07-02-21",
+  "ip": "reborn-ot.sytes.net",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 0,
+    "peak": 3,
+    "max": 500
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "6216750c169a36418990928846cedcd2",
+  "name": "Tibia Fun III",
+  "ip": "31.61.116.188",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 3,
+    "peak": 3,
+    "max": 100
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "7.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "7227f1db6b5d3bac8d2170142541c76e",
+  "name": "Venop RL Map NEW",
+  "ip": "venop.online",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 1,
+    "peak": 9,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "12.5",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "38a526d1c9eb3cfbaf2c96c45f510cd4",
+  "name": "VENDO ESSE SV 7.4 ",
+  "ip": "tibia73.servegame.com",
+  "port": "7171",
+  "online": false,
+  "players": {
+    "online": 0,
+    "peak": 0,
+    "max": 0
+  },
+  "uptime": 0,
+  "pvpType": 1,
+  "protocolVersion": "n/a",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+},{
+  "_id": "e9b6fd5240cc3d9d95d0afe8a61b2459",
+  "name": "Dustots",
+  "ip": "93.105.167.225",
+  "port": "7171",
+  "online": true,
+  "players": {
+    "online": 2,
+    "peak": 2,
+    "max": 1000
+  },
+  "uptime": 0,
+  "pvpType": 2,
+  "protocolVersion": "8.6",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2021-02-07T13:16:54.102Z"
+  },
+  "updatedAt": null,
+  "owner": null
+}]
