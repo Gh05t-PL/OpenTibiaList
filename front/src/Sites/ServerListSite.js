@@ -7,7 +7,7 @@ const ServerListSite = () => {
     <>
       <Statistics/>
 
-      <ServerList endpoint={"api/v1/servers"} link={'/server/{id}/info'}/>
+      <ServerList endpoint={"/api/v1/servers"} link={'/server/{id}/info'}/>
     </>
   )
 }
