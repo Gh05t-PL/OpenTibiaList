@@ -1,0 +1,7 @@
+.idea/
+
+DATA_SERVER
+
+FIXTURE
+
+.docker/rabbitmq/
