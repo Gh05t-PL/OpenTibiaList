@@ -15,7 +15,7 @@ const LoginForm = () => {
 
   const login = (values) => {
     console.log(values)
-    fetch(`http://localhost:8080/api/v1/security/login${objectToQueryParam({"_remember_me": values.rememberMe})}`, {
+    fetch(window.API_HOST+`/api/v1/security/login${objectToQueryParam({"_remember_me": values.rememberMe})}`, {
       method: 'POST',
       credentials: "include",
       body: JSON.stringify({

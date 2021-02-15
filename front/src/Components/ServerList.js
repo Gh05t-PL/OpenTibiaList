@@ -11,7 +11,7 @@ const ServerList = ({endpoint, link}) => {
   const history = useHistory();
 
   useEffect(() => {
-    fetch('http://localhost:8080/' + endpoint + '?' + new URLSearchParams({
+    fetch(window.API_HOST + endpoint + '?' + new URLSearchParams({
       limit: rowsCount,
       offset: (page - 1) * rowsCount,
     }), {credentials: "include"})

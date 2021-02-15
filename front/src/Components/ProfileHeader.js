@@ -8,7 +8,7 @@ const ProfileHeader = () => {
 
   const handleLogout = () => {
     setSession({});
-    fetch('http://localhost:8080/api/v1/security/logout', {credentials: "include"}).then((res) => {
+    fetch(window.API_HOST+'/api/v1/security/logout', {credentials: "include"}).then((res) => {
       history.push('/')
     })
   }

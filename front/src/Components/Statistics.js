@@ -4,7 +4,7 @@ const Statistics = () => {
   const [stats, setStats] = useState({});
 
   useEffect(() => {
-    fetch('http://localhost:8080/api/v1/stats/serverDetailed', {credentials: 'include'})
+    fetch(window.API_HOST+'/api/v1/stats/serverDetailed', {credentials: 'include'})
       .then((response) => {
         response.json().then((json) => {
           if (json) {
