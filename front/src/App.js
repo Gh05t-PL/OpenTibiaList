@@ -31,7 +31,7 @@ function App() {
   }
 
   useEffect(() => {
-    fetch('http://localhost:8080/api/v1/security/isLoggedIn', {credentials: "include"})
+    fetch(window.API_HOST + '/api/v1/security/isLoggedIn', {credentials: "include"})
       .then((response) => {
         if (response.status === 401) {
           return;
