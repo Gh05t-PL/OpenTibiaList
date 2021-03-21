@@ -41,3 +41,11 @@ RUN apt install librabbitmq-dev -y \
     && docker-php-ext-enable amqp
 
 RUN a2enmod headers
+
+RUN apt install cron -y
+
+COPY crons/* /etc/cron.d/
+RUN cat /etc/cron.d/*.cron | crontab -
+
+COPY ./entry.bash /
+ENTRYPOINT /entry.bash

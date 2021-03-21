@@ -24,8 +24,6 @@ const StatisticsCard = ({hourStat, dayStat, yearStat, ...props}) => {
               <div className="w-100" style={{height: '400px'}}>
                 <MemoizedMyResponsiveCalendar
                   data={yearStat.map((item) => {return {day: moment(item.date).format('YYYY-MM-DD'), value: item.playersOnline}})}
-                  // from={"2021-01-01"}
-                  // to={"2021-12-31"}
                   from={moment().startOf('year').format('YYYY-MM-DD')}
                   to={moment().endOf('year').format('YYYY-MM-DD')}
 
@@ -49,7 +47,7 @@ const StatisticsCard = ({hourStat, dayStat, yearStat, ...props}) => {
           <div className="card h-100">
             <div className="card-body">
               <h3 className="card-title mb-1">Players Online:</h3>
-              <h5 className="mb-1 font-weight-normal">1h / 5min Step</h5>
+              <h5 className="mb-1 font-weight-normal">2h / 5min Step</h5>
               <div className="w-100" style={{height: '500px'}}>
                 <MyResponsiveLine
                   data={[
@@ -98,30 +96,19 @@ const StatisticsCard = ({hourStat, dayStat, yearStat, ...props}) => {
 const MyResponsiveLine = ({data /* see data tab */}) => (
   <ResponsiveLine
     data={data}
-    margin={{top: 50, right: 110, bottom: 105, left: 60}}
+    margin={{top: 50, right: 110, bottom: 20, left: 60}}
     xScale={{type: 'point'}}
     yScale={{type: 'linear', stacked: true, reverse: false}}
     yFormat=" >-.2f"
     curve="linear"
     axisTop={null}
     axisRight={null}
-    axisBottom={{
-      orient: 'bottom',
-      tickSize: 5,
-      tickPadding: 25,
-      tickRotation: 45,
-      legend: 'Date',
-      legendOffset: 15,
-      legendPosition: 'middle'
-    }}
+    axisBottom={null}
     axisLeft={{
       orient: 'left',
       tickSize: 5,
       tickPadding: 5,
-      tickRotation: 0,
-      legend: 'Players Online',
-      legendOffset: -40,
-      legendPosition: 'middle'
+      tickRotation: 0
     }}
     colors={{scheme: 'accent'}}
     pointSize={10}

@@ -22,6 +22,10 @@ const InfoCard = ({data, ...props}) => {
                     value={data.name}
                   />
                   <ServerInfoRow
+                    label={"Status"}
+                    value={data.online ? (<span className={'text-success font-weight-bold'}>ONLINE</span>) : (<span className={'text-danger font-weight-bold'}>OFFLINE</span>)}
+                  />
+                  <ServerInfoRow
                     label={"IP"}
                     value={data.ip}
                   />

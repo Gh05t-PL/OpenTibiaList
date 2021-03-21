@@ -2,7 +2,7 @@ import React from "react";
 
 import PlayerInfoRow from "../../Components/PlayerInfoRow";
 
-const PlayersCard = (props) => {
+const PlayersCard = ({serverDetails, ...props}) => {
 
   return (
     <div className={props.className}>
@@ -11,7 +11,7 @@ const PlayersCard = (props) => {
           <div className="card">
             <div className="card-body">
               <h3 className="card-title mb-1">Players Online:</h3>
-              <h5 className="mb-1">6 / 100</h5>
+              <h5 className="mb-1">{serverDetails.players.online} / {serverDetails.players.max}</h5>
               <h6 className="mb-4">Updated: 20.12.2202 16:35</h6>
               <table className="table table-striped">
                 <tbody>

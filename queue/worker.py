@@ -11,11 +11,13 @@ from bson import DBRef
 from pymongo import MongoClient
 from lib.server_status_fetching import parse_server_status_xml, get_server_status
 
+MONGO_USER = 'root'
+MONGO_USER_PASSWORD = 'example'
+MONGO_DSN = f'mongodb://{MONGO_USER}:{MONGO_USER_PASSWORD}@mongo:27017'
 
-MONGO_DSN = 'mongodb://root:example@localhost:27017'
 RABBIT_LOGIN = 'example'
 RABBIT_PASSWORD = 'examplf'
-RABBIT_HOST = 'localhost'
+RABBIT_HOST = 'rabbitmq'
 
 
 mongo_connection = MongoClient(MONGO_DSN)
