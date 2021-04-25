@@ -34,7 +34,7 @@ pipeline {
                         remote.password = password
                         def BACK_APP_ENV = "prod"
                         def envFile = readFile(FILE)
-                        println("""${envFile}""".stripIndent())
+
                         sshCommand(
                             command: """
                                 cd ${SERVER_SECRET_OTSLIST_DIRECTORY}
@@ -43,9 +43,9 @@ pipeline {
                                 ${envFile}
                                 EOF
                                 git pull
-                                docker-compose -f docker-compose.prod.yml up --scale queue-worker=4 -d --build
+                                docker-compose -f docker-compose.prod.yaml up --scale queue-worker=4 -d --build
                                 docker-compose -f docker-compose.prod.yaml exec -T back composer install
-                            """.stripIndent(),
+                            """.stripIndent().stripIndent(),
                             remote: remote
                         )
 
