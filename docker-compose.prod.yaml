@@ -41,10 +41,6 @@ services:
   rabbitmq:
     env_file: .env
     image: rabbitmq:management-alpine
-    environment:
-      RABBITMQ_ERLANG_COOKIE: "aijsbdiuwdiuafvh97u3yre98y2987ufh2q9fhgvbf"
-      RABBITMQ_DEFAULT_USER: "example"
-      RABBITMQ_DEFAULT_PASS: "examplf"
     ports:
       - 15672:15672 # web ui
 
@@ -54,9 +50,6 @@ services:
     restart: always
     volumes:
       - mongo_data:/data/db
-    environment:
-      MONGO_INITDB_ROOT_USERNAME: root
-      MONGO_INITDB_ROOT_PASSWORD: example
     ports:
       - 27017:27017
 
