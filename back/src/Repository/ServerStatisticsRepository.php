@@ -55,7 +55,7 @@ class ServerStatisticsRepository extends InjectableRepository
         $ab
             ->match()
                 ->field('server')
-                    ->references($server);
+                    ->equals(['$ref' => 'Server', '$id' => $server->getId()]);
         $ab
             ->group()
                 ->field("id")
