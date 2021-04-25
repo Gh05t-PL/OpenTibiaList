@@ -60,7 +60,7 @@ class ServersController extends AbstractController
     }
 
     /**
-     * @Route("/", methods={"GET"})
+     * @Route("", methods={"GET"})
      *
      * @param Request $request
      * @return \Symfony\Component\HttpFoundation\Response
