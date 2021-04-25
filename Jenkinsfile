@@ -34,7 +34,7 @@ pipeline {
                         remote.password = password
                         def BACK_APP_ENV = "prod"
                         def envFile = readFile(FILE)
-                        println(envFile)
+                        println("""${envFile}""".stripIndent())
 
                         
 
