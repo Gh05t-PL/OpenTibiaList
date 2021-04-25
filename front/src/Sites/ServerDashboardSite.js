@@ -40,7 +40,7 @@ const ServerDashboardSite = () => {
           <br/>
           <div className="row rounded justify-content-center">
             <Route path="/dashboard/servers" exact>
-              <ServerList endpoint={"api/v1/profile/servers"} link={"/dashboard/servers/{id}"}/>
+              <ServerList link={"/dashboard/servers/{id}"}/>
             </Route>
             <Route path="/dashboard/servers/add" exact>
               <AddServerForm/>
