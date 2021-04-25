@@ -37,14 +37,14 @@ pipeline {
 
                         sshCommand(
                             command: """
-                                cd ${SERVER_SECRET_OTSLIST_DIRECTORY}
-                                docker-compose -f docker-compose.prod.yaml down
-                                cat << EOF > .env
-                                ${envFile}
-                                EOF
-                                git pull
-                                docker-compose -f docker-compose.prod.yaml up --scale queue-worker=4 -d --build
-                                docker-compose -f docker-compose.prod.yaml exec -T back composer install
+cd ${SERVER_SECRET_OTSLIST_DIRECTORY}
+docker-compose -f docker-compose.prod.yaml down
+cat << EOF > .env
+${envFile}
+EOF
+git pull
+docker-compose -f docker-compose.prod.yaml up --scale queue-worker=4 -d --build
+docker-compose -f docker-compose.prod.yaml exec -T back composer install
                             """.stripIndent().stripIndent(),
                             remote: remote
                         )
