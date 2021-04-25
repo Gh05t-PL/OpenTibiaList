@@ -6,6 +6,7 @@ from math import floor
 import pika
 import time
 import json
+import os
 
 from bson import DBRef
 from pymongo import MongoClient
