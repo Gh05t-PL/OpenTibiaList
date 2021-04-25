@@ -1,0 +1,71 @@
+version: '3.4'
+
+services:
+
+  back:
+    working_dir: /var/www/html/symfony
+    build:
+      context: ./back
+      target: dev-backend
+    environment:
+      - PHP_IDE_CONFIG=serverName=symfony-docker
+      - XDEBUG_SESSION=PHPSTORM
+    volumes:
+      - ./back:/var/www/html/symfony
+      - ./back/.docker/config:/etc/apache2/sites-enabled
+    ports:
+      - 8080:80
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  front:
+    image: node:15-buster
+    working_dir: /home/node/react
+    entrypoint: bash /home/node/react/entry.bash
+    ports:
+      - 3000:3000
+    volumes:
+      - ./front:/home/node/react
+
+  queue-worker:
+    image: python:3.9-buster
+    working_dir: /home/py
+    entrypoint: bash /home/py/entry.bash
+    volumes:
+      - ./queue:/home/py
+
+  rabbitmq:
+    image: rabbitmq:management-alpine
+    volumes:
+      - ./.docker/rabbitmq/data/:/var/lib/rabbitmq/
+      - ./.docker/rabbitmq/logs/:/var/log/rabbitmq/
+    environment:
+      RABBITMQ_ERLANG_COOKIE: "aijsbdiuwdiuafvh97u3yre98y2987ufh2q9fhgvbf"
+      RABBITMQ_DEFAULT_USER: "example"
+      RABBITMQ_DEFAULT_PASS: "examplf"
+    ports:
+      - 15672:15672 # web ui
+
+  mongo:
+    image: mongo:4.2
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    volumes:
+      - mongo_data:/data/db
+    ports:
+      - 27017:27017
+
+  redis:
+    image: redis:6.0
+
+  mailhog:
+    image: mailhog/mailhog
+    logging:
+      driver: 'none'
+    ports:
+      - 8025:8025 # web ui
+
+volumes:
+  mongo_data: {}

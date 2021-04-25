@@ -1,0 +1,1 @@
+*/5 * * * * /usr/local/bin/php /var/www/bin/console queue:produce:server_stats

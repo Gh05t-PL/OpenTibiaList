@@ -1,0 +1,9 @@
+FROM nginx:1.19.8 as base
+
+# ##########################
+FROM base AS prod-build
+
+COPY ./nginx/.docker/nginx.conf /etc/nginx/nginx.conf
+COPY ./nginx/.docker/sites/ /etc/nginx/sites-available
+COPY ./nginx/.docker/conf.d/ /etc/nginx/conf.d
+COPY ./back /var/www

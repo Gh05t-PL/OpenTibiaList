@@ -1,7 +1,12 @@
-.idea/
 
-DATA_SERVER
+queue/.idea/
 
-FIXTURE
+/.docker/
 
-.docker/rabbitmq/
+/.idea/
+
+.env
+
+back/xdebug.log
+
+front/.idea/

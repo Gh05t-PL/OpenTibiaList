@@ -1,3 +1,4 @@
 #!/usr/bin/env sh
 
-sed -i "s|===SERVER===|$BACKEND_SERVER|" /usr/share/nginx/html/index.html
+sed -i "s|===API_HOST===|$BACKEND_API_HOST|" /usr/share/nginx/html/index.html
+nginx -g "daemon off;"

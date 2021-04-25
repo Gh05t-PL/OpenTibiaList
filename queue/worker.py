@@ -11,12 +11,12 @@ from bson import DBRef
 from pymongo import MongoClient
 from lib.server_status_fetching import parse_server_status_xml, get_server_status
 
-MONGO_USER = 'root'
-MONGO_USER_PASSWORD = 'example'
+MONGO_USER = os.getenv('MONGO_INITDB_ROOT_USERNAME')
+MONGO_USER_PASSWORD = os.getenv('MONGO_INITDB_ROOT_PASSWORD')
 MONGO_DSN = f'mongodb://{MONGO_USER}:{MONGO_USER_PASSWORD}@mongo:27017'
 
-RABBIT_LOGIN = 'example'
-RABBIT_PASSWORD = 'examplf'
+RABBIT_LOGIN = os.getenv('RABBITMQ_DEFAULT_USER')
+RABBIT_PASSWORD = os.getenv('RABBITMQ_DEFAULT_PASS')
 RABBIT_HOST = 'rabbitmq'
 
 

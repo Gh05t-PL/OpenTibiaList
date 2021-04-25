@@ -1,0 +1,67 @@
+version: '3.4'
+
+services:
+
+  back:
+    env_file: .env
+    working_dir: /var/www
+    build:
+      context: ./back
+      dockerfile: Dockerfile.fpm
+      target: prod-build
+
+  back_nginx:
+    build:
+      context: ./
+      dockerfile: Dockerfile.nginx-fpm
+      target: prod-build
+    ports:
+      - 8080:80
+    depends_on:
+      - back
+
+  front:
+    env_file: .env
+    build:
+      context: ./front
+      dockerfile: Dockerfile.prod
+      target: prod-build
+    working_dir: /usr/share/nginx/html
+    ports:
+      - 80:80
+
+  queue-worker:
+    env_file: .env
+    image: python:3.9-buster
+    working_dir: /home/py
+    entrypoint: bash /home/py/entry.bash
+    volumes:
+      - ./queue:/home/py
+
+  rabbitmq:
+    env_file: .env
+    image: rabbitmq:management-alpine
+    environment:
+      RABBITMQ_ERLANG_COOKIE: "aijsbdiuwdiuafvh97u3yre98y2987ufh2q9fhgvbf"
+      RABBITMQ_DEFAULT_USER: "example"
+      RABBITMQ_DEFAULT_PASS: "examplf"
+    ports:
+      - 15672:15672 # web ui
+
+  mongo:
+    env_file: .env
+    image: mongo:4.2
+    restart: always
+    volumes:
+      - mongo_data:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: example
+    ports:
+      - 27017:27017
+
+  redis:
+    image: redis:6.0
+
+volumes:
+  mongo_data: {}
