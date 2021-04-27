@@ -45,6 +45,4 @@ COPY .docker/fpm/custom.ini /usr/local/etc/php-fpm.d/www.conf
 COPY .docker/fpm/php.ini /usr/local/etc/php/conf.d/php-add.ini
 COPY .docker/config/opcache.ini /usr/local/etc/php/conf.d/opcache.ini
 
-COPY .docker/crons/* /etc/cron.d/
-
 COPY . /var/www/
